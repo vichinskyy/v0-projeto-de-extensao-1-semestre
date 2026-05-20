@@ -26,8 +26,8 @@ const materials = [
   {
     title: "Cartas do Jogo",
     description: "Deck completo com todas as cartas de perguntas.",
-    format: "PNG",
-    formatColor: "orange" as const,
+    format: "PDF",
+    formatColor: "green" as const,
     imageUrl: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cartas_modelo-7Ph0VFBIPyjh5qJBriikjpNmy0gCuj.png",
     imageAlt: "Cartas do jogo com perguntas de Teoria, Conceito Geral e Prática",
     downloadUrl: "#",
