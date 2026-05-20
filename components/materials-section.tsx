@@ -8,7 +8,7 @@ const materials = [
     formatColor: "green" as const,
     imageUrl: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tabuleiro_claro-UBgTOuUYrarWrHwmx7WWqHgSTKwQwt.png",
     imageAlt: "Tabuleiro do jogo TecOn com trilha de casas coloridas e símbolos científicos",
-    downloadUrl: "#", // TROCAR AQUI PELO LINK DO DRIVE DO TABULEIRO
+    downloadUrl: "https://drive.google.com/file/d/1-sLYeZvVbps2CFch5tKUtRiRdbcyyYvg/view?usp=sharing", // AQUI JA TA O TABULEIOR
     icon: "board" as const,
     imageBg: "bg-gray-200",
   },
