@@ -5,13 +5,13 @@ import { Footer } from "@/components/footer"
 
 export default function Home() {
   return (
-    <div className="min-h-screen flex flex-col bg-background">
+    <main className="min-h-screen flex flex-col bg-background">
       <Header />
-      <main className="flex-1">
+      <div className="flex-1 bg-muted/30">
         <MaterialsSection />
         <ProjectInfo />
-      </main>
+      </div>
       <Footer />
-    </div>
+    </main>
   )
 }
