@@ -19,7 +19,7 @@ const materials = [
     formatColor: "green" as const,
     imageUrl: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/manual_jogo-3ozQxants3HTCb9TA7GnNYjAiUe31Z.png",
     imageAlt: "Manual de instruções do jogo com regras e preparação",
-    downloadUrl: "#", // TROCAR AQUI PELO LINK DO DRIVE DO MANUAL
+    downloadUrl: "https://canva.link/tosc98jhafsq8v3", // TROCAR AQUI PELO LINK DO DRIVE DO MANUAL
     icon: "manual" as const,
     imageBg: "bg-white",
   },
