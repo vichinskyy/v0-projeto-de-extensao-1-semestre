@@ -8,7 +8,7 @@ const materials = [
     formatColor: "green" as const,
     imageUrl: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tabuleiro_claro-UBgTOuUYrarWrHwmx7WWqHgSTKwQwt.png",
     imageAlt: "Tabuleiro do jogo TecOn com trilha de casas coloridas e símbolos científicos",
-    downloadUrl: "#",
+    downloadUrl: "https://drive.google.com/file/d/1RQdi7IAuc93KlW5SQ6BPMb1rK-ey04fL/view?usp=drive_link", // AQUI JA TA O TABULEIOR
     icon: "board" as const,
     imageBg: "bg-gray-200",
   },
@@ -19,7 +19,7 @@ const materials = [
     formatColor: "green" as const,
     imageUrl: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/manual_jogo-3ozQxants3HTCb9TA7GnNYjAiUe31Z.png",
     imageAlt: "Manual de instruções do jogo com regras e preparação",
-    downloadUrl: "#",
+    downloadUrl: "https://canva.link/tosc98jhafsq8v3", // TROCAR AQUI PELO LINK DO DRIVE DO MANUAL
     icon: "manual" as const,
     imageBg: "bg-white",
   },
@@ -30,7 +30,7 @@ const materials = [
     formatColor: "green" as const,
     imageUrl: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cartas_modelo-7Ph0VFBIPyjh5qJBriikjpNmy0gCuj.png",
     imageAlt: "Cartas do jogo com perguntas de Teoria, Conceito Geral e Prática",
-    downloadUrl: "#",
+    downloadUrl: "https://drive.google.com/file/d/1b0hjptOifDuhPTOjkb43nWrEEofIQSC-/view?usp=sharing", // TROCAR AQUI PELO LINK DO DRIVE DAS CARTAS
     icon: "cards" as const,
     imageBg: "bg-white",
   },
@@ -41,7 +41,7 @@ const materials = [
     formatColor: "red" as const,
     imageUrl: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/peoes_sem_fundo-YMfiVtFXmyYsOzBHnuZ9kCgjXopBcF.png",
     imageAlt: "Peões coloridos do jogo representando diferentes áreas da ciência",
-    downloadUrl: "#",
+    downloadUrl: "https://www.tinkercad.com/things/7BwoP0UrnvJ-peoes-tecon-30-coloridos?sharecode=jqDTclcMKPQ8cAgK1LvgxF7mB_Q5GG-l6i7kVwYG8aY", // AQUI JA TA O LINK DO THINKERCAD
     icon: "pawns" as const,
     imageBg: "bg-gradient-to-b from-gray-300 to-gray-400",
   },
