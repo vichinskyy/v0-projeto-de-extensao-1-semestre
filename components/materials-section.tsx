@@ -8,7 +8,7 @@ const materials = [
     formatColor: "green" as const,
     imageUrl: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tabuleiro_claro-UBgTOuUYrarWrHwmx7WWqHgSTKwQwt.png",
     imageAlt: "Tabuleiro do jogo TecOn com trilha de casas coloridas e símbolos científicos",
-    downloadUrl: "https://drive.google.com/file/d/1-sLYeZvVbps2CFch5tKUtRiRdbcyyYvg/view?usp=sharing", // AQUI JA TA O TABULEIOR
+    downloadUrl: "https://drive.google.com/file/d/1RQdi7IAuc93KlW5SQ6BPMb1rK-ey04fL/view?usp=drive_link", // AQUI JA TA O TABULEIOR
     icon: "board" as const,
     imageBg: "bg-gray-200",
   },
@@ -30,7 +30,7 @@ const materials = [
     formatColor: "green" as const,
     imageUrl: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cartas_modelo-7Ph0VFBIPyjh5qJBriikjpNmy0gCuj.png",
     imageAlt: "Cartas do jogo com perguntas de Teoria, Conceito Geral e Prática",
-    downloadUrl: "https://drive.google.com/file/d/1pBgxRsgP-IfWVIjzMIwf01XU__7tjU_u/view?usp=drive_link", // TROCAR AQUI PELO LINK DO DRIVE DAS CARTAS
+    downloadUrl: "https://drive.google.com/file/d/1b0hjptOifDuhPTOjkb43nWrEEofIQSC-/view?usp=sharing", // TROCAR AQUI PELO LINK DO DRIVE DAS CARTAS
     icon: "cards" as const,
     imageBg: "bg-white",
   },
