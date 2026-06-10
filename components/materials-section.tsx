@@ -35,7 +35,7 @@ const materials = [
     downloadUrl: "https://drive.google.com/file/d/1b0hjptOifDuhPTOjkb43nWrEEofIQSC-/view?usp=sharing",
     icon: "cards" as const,
     imageBg: "bg-white",
-    imageAspect: "aspect-[4/3]",
+    imageAspect: "aspect-[3/4]",
   },
   {
     title: "Peões do Jogo",
