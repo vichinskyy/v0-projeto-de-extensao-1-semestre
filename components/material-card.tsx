@@ -11,6 +11,7 @@ interface MaterialCardProps {
   downloadUrl: string
   icon: "board" | "manual" | "cards" | "pawns"
   imageBg?: string
+  imageAspect?: string
 }
 
 const formatColors = {
@@ -36,12 +37,13 @@ export function MaterialCard({
   downloadUrl,
   icon,
   imageBg = "bg-muted",
+  imageAspect = "aspect-[4/3]",
 }: MaterialCardProps) {
   const Icon = icons[icon]
 
   return (
     <div className="bg-card rounded-xl border border-border shadow-sm overflow-hidden flex flex-col h-full transition-shadow hover:shadow-md">
-      <div className={`relative aspect-[4/3] ${imageBg} overflow-hidden flex items-center justify-center`}>
+      <div className={`relative ${imageAspect} ${imageBg} overflow-hidden flex items-center justify-center`}>
         <Image
           src={imageUrl}
           alt={imageAlt}
