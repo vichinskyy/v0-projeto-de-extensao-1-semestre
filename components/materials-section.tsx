@@ -27,7 +27,7 @@ const materials = [
   },
   {
     title: "Cartas do Jogo",
-    description: "Deck completo com todas as cartas de perguntas.",
+    description: "Para imprimir, selecione *2 por página* nas configurações de impressão",
     format: "PDF",
     formatColor: "green" as const,
     imageUrl: "/cartas ima.png",
